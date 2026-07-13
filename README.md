@@ -25,5 +25,5 @@ The CSV file contains raw sales data for custom analysis with your preferred too
 
 **Chamen Rayane** & **Dahmani Mahdi**
 
-Master 2 — Applied Mathematics (Data Science & Decision Support)  
+Master 2 Applied Mathematics (Data Science & Decision Support)  
 Université Abderrahmane Mira, Béjaïa, Algeria
